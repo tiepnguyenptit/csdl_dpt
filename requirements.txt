@@ -1,0 +1,6 @@
+librosa
+python_speech_features
+annoy
+numba<=0.48
+tqdm
+ffmpeg
